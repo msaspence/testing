@@ -30,6 +30,7 @@ gem 'doorkeeper-mongodb', github: 'doorkeeper-gem/doorkeeper-mongodb'
 gem 'cancancan'
 gem 'oauth2'
 gem 'switch_user'
+gem 'h2ocube_rails_puma', '0.0.3'
 
 # Background processing
 gem 'daemons'
